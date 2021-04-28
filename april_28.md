@@ -6,7 +6,10 @@ Meejah (the guy we met working 4 days a week)
 
 Casl roles: https://casl.js.org/v4/en/cookbook/roles-with-static-permissions
 
+
 Event Sourcing: https://axoniq.io/resources/event-sourcing?utm_term=eventsourcing&utm_campaign=AWA_Search_Concepts_USCA&utm_source=adwords&utm_medium=ppc&hsa_acc=1448868591&hsa_cam=12018526048&hsa_grp=114828587694&hsa_ad=490227002072&hsa_src=g&hsa_tgt=kwd-302921305422&hsa_kw=eventsourcing&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwj6SEBhAOEiwAvFRuKPrChVWmYkjxvOl7KT3XcrLcIJyLsDTAxL7x1ziPDapPC-Eq5cgm7BoCQSsQAvD_BwE
+
+# Topic 1: How to find part time work
 
 How to get partime work
 - you have to have tact when approaching the subject
@@ -26,3 +29,19 @@ Progressional models in software? Deliberate practice. Pluralsite?
 Become deeply knowledgeable about something (like cypress or e2e testing for example) and that gives you something you can leverage
 
 Make the constraint that you cannot CODE during your first month.
+
+# Topic 2: How to knowledge share on a team
+
+- Team Level:
+  - Reference Section with info dump (doesn't work)
+  - avoid polluting
+  - after having a discussion you summarize the key points
+
+Lunch and learns
+tech learnings challenge
+
+foam: https://github.com/foambubble/foam
+second brain: https://www.buildingasecondbrain.com/
+zettelkasten: https://zettelkasten.de/posts/overview/
+
+markdown editor autosaving to evernote: 
